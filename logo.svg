@@ -1,0 +1,22 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 220">
+<g clip-path="url(#clip0_0_10)">
+<path d="M0 9.6C0 5.07452 0 2.81178 1.40589 1.40589C2.81178 0 5.07452 0 9.6 0H22.4C26.9255 0 29.1882 0 30.5941 1.40589C32 2.81178 32 5.07452 32 9.6V22.4C32 26.9255 32 29.1882 30.5941 30.5941C29.1882 32 26.9255 32 22.4 32H9.6C5.07452 32 2.81178 32 1.40589 30.5941C0 29.1882 0 26.9255 0 22.4V9.6Z" fill="url(#paint0_linear_0_10)"/>
+<ellipse id="Ellipse 5" cx="22.8" cy="28" rx="18.8" ry="13.6" fill="url(#paint1_linear_0_10)"/>
+<path id="Rectangle 1" d="M12.0379 21.633C12.5028 20.6368 13.5027 20 14.602 20H35.5276C36.6722 20 37.6 20.9278 37.6 22.0724C37.6 23.1588 36.761 24.0608 35.6774 24.1393L14.8065 25.6517C12.6524 25.8078 11.1246 23.5902 12.0379 21.633Z" fill="white"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_10" x1="16" y1="4.4" x2="2.8" y2="51.2" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D2023"/>
+<stop offset="1" stop-color="#505B67"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_10" x1="22.8" y1="14.4" x2="22.8" y2="41.6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#45B6FC"/>
+<stop offset="1" stop-color="#7C86FE"/>
+</linearGradient>
+<clipPath id="clip0_0_10">
+<path d="M0 9.6C0 5.07452 0 2.81178 1.40589 1.40589C2.81178 0 5.07452 0 9.6 0H22.4C26.9255 0 29.1882 0 30.5941 1.40589C32 2.81178 32 5.07452 32 9.6V22.4C32 26.9255 32 29.1882 30.5941 30.5941C29.1882 32 26.9255 32 22.4 32H9.6C5.07452 32 2.81178 32 1.40589 30.5941C0 29.1882 0 26.9255 0 22.4V9.6Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
